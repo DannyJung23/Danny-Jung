@@ -1,4 +1,4 @@
-### Hello World,
+### Hello World!
 
 - 👋 I'm Danny, a Software Developer who loves to solve problems with technologies
 - 💻 I'm currently working on an attendance management web app
